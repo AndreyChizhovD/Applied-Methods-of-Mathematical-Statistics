@@ -1,1 +1,4 @@
-# Applied-Methods-of-Mathematical-Statistics
+# homework
+[notebook](hw.pdf)
+
+[report](report.pdf)
